@@ -71,4 +71,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 > **平台的操作流程：阅读使用方法=>输入参数=>导入模型=>仿真计算=>查看计算结果=>对比结果=>重复操作**
 
+- **[展示页面](https://tangctt.github.io/simulation-platform/)，或浏览`https://tangctt.github.io/simulation-platform/`**
+
 - **更多详细内容与功能仍在开发之中...**
