@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/simulation-platform/precache-manifest.f6a384bfeec60547461482b1c491858b.js"
+  "/precache-manifest.dd7a2125c6c1ec71c8fb6254000de8bb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Silumation_Platform"});
